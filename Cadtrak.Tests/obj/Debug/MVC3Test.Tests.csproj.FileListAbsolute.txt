@@ -1,0 +1,13 @@
+D:\Projects\MVC3Test\MVC3Test.Tests\obj\Debug\MVC3Test.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\MVC3Test\MVC3Test.Tests\bin\Debug\MVC3Test.Tests.dll.config
+D:\Projects\MVC3Test\MVC3Test.Tests\bin\Debug\MVC3Test.Tests.dll
+D:\Projects\MVC3Test\MVC3Test.Tests\bin\Debug\MVC3Test.Tests.pdb
+D:\Projects\MVC3Test\MVC3Test.Tests\bin\Debug\MVC3Test.dll
+D:\Projects\MVC3Test\MVC3Test.Tests\bin\Debug\SecurityGuard.dll
+D:\Projects\MVC3Test\MVC3Test.Tests\bin\Debug\MVCCentral.Framework.dll
+D:\Projects\MVC3Test\MVC3Test.Tests\bin\Debug\EntityFramework.dll
+D:\Projects\MVC3Test\MVC3Test.Tests\bin\Debug\MVC3Test.pdb
+D:\Projects\MVC3Test\MVC3Test.Tests\bin\Debug\EntityFramework.xml
+D:\Projects\MVC3Test\MVC3Test.Tests\obj\Debug\MVC3Test.Tests.dll
+D:\Projects\MVC3Test\MVC3Test.Tests\obj\Debug\MVC3Test.Tests.pdb
+D:\Projects\MVC3Test\MVC3Test.Tests\bin\Debug\MySql.Data.dll

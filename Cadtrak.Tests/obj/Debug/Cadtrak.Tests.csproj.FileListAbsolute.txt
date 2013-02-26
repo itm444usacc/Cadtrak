@@ -1,0 +1,6 @@
+D:\Projects\MVC3Test\MVC3Test.Tests\obj\Debug\Cadtrak.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\MVC3Test\MVC3Test.Tests\obj\Debug\MVC3Test.Tests.dll
+D:\Projects\MVC3Test\MVC3Test.Tests\obj\Debug\MVC3Test.Tests.pdb
+D:\Projects\Cadtrak\Cadtrak.Tests\obj\Debug\Cadtrak.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\Cadtrak\Cadtrak.Tests\obj\Debug\MVC3Test.Tests.dll
+D:\Projects\Cadtrak\Cadtrak.Tests\obj\Debug\MVC3Test.Tests.pdb
